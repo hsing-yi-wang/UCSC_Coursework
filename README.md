@@ -13,6 +13,8 @@
 
 ###### Open to suggestion: sywang0407@gmail.com
 
+### List of Course Work
+
 |Course Name         |Topics Covered             |Language         |Semester    |
 |--------------------|---------------------------|:---------------:|------------|
 |Data Structure and Algorithm |Concepts in the book: *Cracking the Coding Interview* |`Python`|2018 Winter|
