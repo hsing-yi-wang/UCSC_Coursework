@@ -17,7 +17,7 @@
 
 |Course Name         |Topics Covered             |Language         |Semester    |
 |--------------------|---------------------------|:---------------:|------------|
-|Data Structure and Algorithm |Concepts in the book: *Cracking the Coding Interview* |`Python`|2018 Winter|
-|Machine Learning and Data Modeling |Bayes Classification, Linear Classification, Neural Networks, PCA, Decision Trees |`Python`|2018 Winter|
-|Deep Learning using Tensorflow |Tensorflow, CNN, RNN, LSTM|`Python`|2019 Spring|
-|IoT Big Data Processing using Spark |AWS, Spark, Linux|`PySpark`|2019 Spring|
+|**Data Structure and Algorithm** |Concepts in the book: *Cracking the Coding Interview* |`Python`|2018 Winter|
+|**Machine Learning and Data Modeling**  |Bayes Classification, Linear Classification, Neural Networks, PCA, Decision Trees |`Python`|2018 Winter|
+|**Deep Learning using Tensorflow**  |Tensorflow, CNN, RNN, LSTM|`Python`|2019 Spring|
+|**IoT Big Data Processing using Spark**  |AWS, Spark, Linux|`PySpark`|2019 Spring|
